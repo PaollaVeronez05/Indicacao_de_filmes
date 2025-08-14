@@ -1,34 +1,31 @@
-🎬 Atividade HTML – Indicação de Filme: Ford vs Ferrari
+<small>
 
-Este projeto foi desenvolvido como parte de uma atividade prática de desenvolvimento web, utilizando a linguagem de marcação HTML5 e o editor de código Visual Studio Code (VS Code).
+# 🎬 Atividade HTML – Indicação de Filme: Ford vs Ferrari
 
-O objetivo foi criar uma página web estática para recomendar o filme Ford vs Ferrari, explorando a aplicação de diferentes elementos e atributos HTML para estruturar o conteúdo de forma clara e funcional.
+Este projeto foi desenvolvido como parte de uma atividade prática de desenvolvimento web, utilizando a linguagem de marcação **HTML5** e o editor de código **Visual Studio Code (VS Code)**.
 
-🔧 Recursos e elementos utilizados
+O objetivo foi criar uma **página web estática** para recomendar o filme *Ford vs Ferrari*, explorando a aplicação de diferentes elementos e atributos HTML para estruturar o conteúdo de forma clara e funcional.
 
-<img>: inserção da imagem do pôster oficial do filme, utilizando o atributo src para definir a origem e alt para acessibilidade.
+## 🔧 Recursos e elementos utilizados
 
-<a>: criação de hyperlinks, incluindo:
+- **`<img>`**: inserção da imagem do pôster oficial do filme, utilizando o atributo `src` para definir a origem e `alt` para acessibilidade.
+- **`<a>`**: criação de hyperlinks, incluindo:
+  - Link externo para uma página com informações adicionais sobre o filme (ex.: IMDb ou Wikipédia).
+  - Link para o trailer oficial, abrindo em nova aba (`target="_blank"`).
+- **`<h1>`, `<h2>`, `<p>`**: utilização de títulos e parágrafos para organizar a hierarquia e descrever o conteúdo.
+- **`<iframe>`**: incorporação do trailer diretamente na página, permitindo a visualização sem sair do site.
 
-Link externo para uma página com informações adicionais sobre o filme (ex.: IMDb ou Wikipédia).
+## 🎯 Objetivos da atividade
 
-Link para o trailer oficial, abrindo em nova aba (target="_blank").
-
-<h1>, <h2>, <p>: utilização de títulos e parágrafos para organizar a hierarquia e descrever o conteúdo.
-
-<iframe>: incorporação do trailer diretamente na página, permitindo a visualização sem sair do site.
-
-🎯 Objetivos da atividade
-
-Praticar a estrutura semântica do HTML5.
-
-Compreender e aplicar links internos e externos.
-
-Trabalhar com elementos multimídia na web.
-
-Utilizar boas práticas de acessibilidade e organização de código.
+- Praticar a **estrutura semântica** do HTML5.
+- Compreender e aplicar **links internos e externos**.
+- Trabalhar com **elementos multimídia** na web.
+- Utilizar boas práticas de **acessibilidade e organização de código**.
 
 Essa atividade contribuiu para aprimorar habilidades na criação de páginas web simples, mas completas, com elementos visuais e interativos que enriquecem a experiência do usuário.
+
+</small>
+
 
 imagem da página:
 
